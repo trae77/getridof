@@ -6,6 +6,7 @@
 - [Home](https://getridof.ttawebdev.com/): Index of disposal guides by item and Denver-metro city.
 - [Tires in Thornton, CO](https://getridof.ttawebdev.com/tires/thornton/): Where and how to get rid of old tires in Thornton, with costs and drop-off options.
 - [Tires in Denver, CO](https://getridof.ttawebdev.com/tires/denver/): Where and how to get rid of old tires in Denver, with costs and drop-off options.
+- [Tires in Aurora, CO](https://getridof.ttawebdev.com/tires/aurora/): Where Aurora residents can take old tires (no city pickup), with costs and drop-off options.
 
 ## About
 - [About](https://getridof.ttawebdev.com/about/): What this site is and how pages are researched.
