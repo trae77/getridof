@@ -1,0 +1,13 @@
+# Get Rid Of Denver Metro
+
+> Free local guide to disposing of specific items (tires, paint, mattresses, electronics and more) in Denver-metro cities, Colorado. One item, one city, one page, with official sources. Always confirm with the facility before you go.
+
+## Pages
+- [Home](https://getridof.ttawebdev.com/): Index of disposal guides by item and Denver-metro city.
+- [Tires in Thornton, CO](https://getridof.ttawebdev.com/tires/thornton/): Where and how to get rid of old tires in Thornton, with costs and drop-off options.
+- [Tires in Denver, CO](https://getridof.ttawebdev.com/tires/denver/): Where and how to get rid of old tires in Denver, with costs and drop-off options.
+
+## About
+- [About](https://getridof.ttawebdev.com/about/): What this site is and how pages are researched.
+- [Affiliate disclosure](https://getridof.ttawebdev.com/disclosure/): How any future affiliate or referral links would work.
+- [Privacy](https://getridof.ttawebdev.com/privacy/): Privacy policy for this static site.
